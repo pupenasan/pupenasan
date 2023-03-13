@@ -11,7 +11,7 @@
 - [Linkedin](https://www.linkedin.com/in/oleksandr-pupena-67aa0b33/)
 - [Facebook](https://www.facebook.com/fieldbusbook)
 - [YouTube](https://www.youtube.com/c/OleksandrPupena)
-
+- канал Телеграм https://t.me/+7n6AhGnkEuM1MmJi
 ## Дисципліни
 
 - [Людино-машинні інтерфейси](https://github.com/pupenasan/hmi)
@@ -23,7 +23,6 @@
   - [імітатор обєкту на Node-RED для лабораторних робіт MOM](https://github.com/pupenasan/MOMlabsim)
 - [Контролери та їх програмне забезпечення Модуль 2](https://github.com/pupenasan/kpz2)
 - [Комп'ютерні мережі та розподілені системи](https://github.com/pupenasan/cmputernetwork)
-- канал Телеграм https://t.me/+7n6AhGnkEuM1MmJi
 Колись вів дисципліни:
 
 - [Промислові мережі](https://github.com/pupenasan/fieldbus)
